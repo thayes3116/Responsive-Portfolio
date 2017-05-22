@@ -163,11 +163,14 @@ h3,
 
 /* portfolio page */
 
+#portfoliomain{
+  margin-left: 50px;
+}
 .work {
   position: relative;
   float: left;
-  width: 274px;
-  margin: 20px 0 25px;
+  width: 365px;
+  margin: 20px 0px 20px 10px;
   overflow: auto;
 }
 
@@ -258,6 +261,10 @@ input[type=submit] {
 }
 .work{
   margin-left:20px;
+  width:275px;
+}
+#portfoliomain{
+  margin-left:25px;
 }
 
 }
